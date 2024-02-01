@@ -4,3 +4,5 @@ pandas
 matplotlib
 tensorflow
 tensorrt
+transformers
+scikit-learn
